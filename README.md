@@ -1,3 +1,4 @@
+# Outline of General Time Series Analysis
 This is a generalized framework that can be applied to a multitude of various applications relating to time series analysis. Specifically, this covers exploratory data analysis techniques involving the manipulation of time series data and a general introduction to the field of ERP research and Brain Computer Interfaces.
 
 https://zenodo.org/record/2649069
